@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp_UI_Tests", "Sharp_UI_Tests.csproj", "{F2327E5E-173F-4005-A3EE-FA5611329FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2327E5E-173F-4005-A3EE-FA5611329FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2327E5E-173F-4005-A3EE-FA5611329FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2327E5E-173F-4005-A3EE-FA5611329FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2327E5E-173F-4005-A3EE-FA5611329FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86606906-C6E9-49CE-948B-A78A15F23442}
+	EndGlobalSection
+EndGlobal
